@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431435345805",
+    "firebase_url": "https://crowdad-ff1ec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crowdad-ff1ec",
+    "storage_bucket": "crowdad-ff1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431435345805:android:9eafe9e38d98d735f197c4",
+        "android_client_info": {
+          "package_name": "Jsoup.jsoup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431435345805-ta4tbc4agokk49ci3e61rakgu0p9uq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCWZZ7mSbcrJ2OrJsKpMgn3TnlpAEf-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431435345805-ta4tbc4agokk49ci3e61rakgu0p9uq8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
