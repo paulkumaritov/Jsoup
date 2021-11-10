@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
         // Write a message to the database
         val database =
-            Firebase.database("https://crowdad-ff1ec-default-rtdb.europe-west1.firebasedatabase.app")
+            Firebase.database("https://www.worldometers.info/geography/alphabetical-list-of-countries/")
         val myRef = database.getReference("message")
 
         myRef.setValue("jlkjkjk")
